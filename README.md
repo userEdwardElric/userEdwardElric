@@ -7,4 +7,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 e-mail para contato: 00001129565002sp@al.educacao.sp.gov.br
 
-!{https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c}
+!{(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcowboy-bebop-edward&psig=AOvVaw2uD1hjqKSz6_Z5hY_gu0fa&ust=1719493757681000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD4usar-YYDFQAAAAAdAAAAABAE)}
