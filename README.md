@@ -7,5 +7,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 e-mail para contato: 00001129565002sp@al.educacao.sp.gov.br
 
-!{https://media2.giphy.com/media/udhngZK2IFTc4/giphy.gif?cid=6c09b952nkmo0f19vfxkt1gjppeaszfvcmscvpzvfbkj4pqb&ep=v1_gifs_search&rid=giphy.gif&ct=g}
+!{![giphy](https://github.com/userEdwardElric/userEdwardElric/assets/173709809/2b086be0-d003-45af-ace6-3431048d9530)}
+
 
