@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**userEdwardElric/userEdwardElric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Prefiro ser chamado de Khaus
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
